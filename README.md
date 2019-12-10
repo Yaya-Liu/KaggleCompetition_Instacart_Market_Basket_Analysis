@@ -8,6 +8,8 @@ Data description: https://tech.instacart.com/3-million-instacart-orders-open-sou
 
 Data link: https://www.instacart.com/datasets/grocery-shopping-2017 
 
+Kaggle competition link: https://www.kaggle.com/c/instacart-market-basket-analysis/overview
+
 There are 6.csv files which provide data on aisles, departments, products, and order information.
 
     aisles.csv: Information regarding the aisle an item can be found (prepared soups/salad, speciality cheeses, etc.)
